@@ -1,4 +1,4 @@
-# **WELCOME TO MY PROFILE**<img src="https://user-images.githubusercontent.com/111967006/197769649-8e9f59a4-6fe3-4dab-88fb-f854adcf6712.gif" width="100px">
+## **WELCOME TO MY PROFILE**<img src="https://user-images.githubusercontent.com/111967006/197769649-8e9f59a4-6fe3-4dab-88fb-f854adcf6712.gif" width="100px">
 - 👋 Hi, I’m @rasi2027
 - 👀 I’m interested in doodling 
 - 💨 I’m currently pursuing Information Technology 
