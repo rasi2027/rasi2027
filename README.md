@@ -1,5 +1,5 @@
 # **WELCOME TO MY PROFILE**
-# <img src="" width="70px">
+# <img src="https://user-images.githubusercontent.com/111967006/197767026-dd1fdce4-7906-4261-8c27-0744f49f4d07.gif" width="70px">
 - 👋 Hi, I’m @rasi2027
 - 👀 I’m interested in doodling 
 - 💨 I’m currently pursuing Information Technology 
