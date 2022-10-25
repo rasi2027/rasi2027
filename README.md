@@ -1,4 +1,5 @@
-![Black Modern Blogger YouTube Channel Art](https://user-images.githubusercontent.com/111967006/197775656-9fb4e33d-e4f1-4c1d-b91b-41d4b79e7041.gif)
+![Black Modern Blogger YouTube Channel Art (1)](https://user-images.githubusercontent.com/111967006/197776204-ea607e3c-27ec-41e3-8637-34459798e83c.gif)
+
 
 
 # **WELCOME TO MY PROFILE**<img src="https://user-images.githubusercontent.com/111967006/197769649-8e9f59a4-6fe3-4dab-88fb-f854adcf6712.gif" width="100px">
