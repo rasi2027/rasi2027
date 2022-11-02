@@ -2,7 +2,7 @@
 
 
 
-# **WELCOME TO MY PROFILE**<img src="https://user-images.githubusercontent.com/111967006/199491254-244e390f-4131-4fe2-a85b-b02dd376cc0b.gif" width="100px">
+# **WELCOME TO MY PROFILE**<img src="https://user-images.githubusercontent.com/111967006/199491254-244e390f-4131-4fe2-a85b-b02dd376cc0b.gif" width="500px">
 - 👋 Hello, I’m @rasi2027
 - 👀 Iam a Doodle Artist
 - 👩‍💻Currently pursuing Information Technology @CAHCET
