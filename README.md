@@ -2,12 +2,12 @@
 
 
 
-# <img src="https://user-images.githubusercontent.com/111967006/199493127-7ee1c949-31d0-48d4-9754-9b4105912978.gif" width="50px">**WELCOME TO MY PROFILE**<img src="https://user-images.githubusercontent.com/111967006/199493127-7ee1c949-31d0-48d4-9754-9b4105912978.gif" width="50px">
- <img src="https://user-images.githubusercontent.com/111967006/199493994-d5f5dd23-8a91-4794-bb29-cc2f28034274.gif" width="40px"> Hello, I’m @rasi2027
-- 👀 Iam a Doodle Artist
-- 👩‍💻Currently pursuing Information Technology @CAHCET
-- 💙 Stay Positive Better days on their way
-- 💬 Catch me @akihsar_rasi in Instagram 
+# <img src="https://user-images.githubusercontent.com/111967006/199493127-7ee1c949-31d0-48d4-9754-9b4105912978.gif" width="50px">**WELCOME TO MY PROFILE**<img src="https://user-images.githubusercontent.com/111967006/199493127-7ee1c949-31d0-48d4-9754-9b4105912978.gif" width="50px"> 
+<img src="https://user-images.githubusercontent.com/111967006/199493994-d5f5dd23-8a91-4794-bb29-cc2f28034274.gif" width="40px"> Hello, I’m @rasi2027
+<img src="" width="40px"> Iam a Doodle Artist
+<img src="https://user-images.githubusercontent.com/111967006/199495870-dca9f08e-0003-46f0-9bb9-c6eefba00b55.gif" width="40px">💻Currently pursuing Information Technology @CAHCET
+<img src="https://user-images.githubusercontent.com/111967006/199493994-d5f5dd23-8a91-4794-bb29-cc2f28034274.gif" width="40px"> Stay Positive Better days on their way
+<img src="https://user-images.githubusercontent.com/111967006/199493994-d5f5dd23-8a91-4794-bb29-cc2f28034274.gif" width="40px"> Catch me @akihsar_rasi in Instagram 
 
 <!---
 rasi2027/rasi2027 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
